@@ -4,6 +4,6 @@
 -- DROP DATABASE transmart;
 
 CREATE DATABASE transmart
-  WITH OWNER = postgres
+  WITH OWNER = riza
        TABLESPACE = pg_default
        CONNECTION LIMIT = -1;
